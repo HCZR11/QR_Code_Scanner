@@ -1,2 +1,2 @@
 # QR_Code_Scanner
-QR Code Scanner &amp; Generator with GUI in Python
+QR Code Scanner with a basic menu coffe shop :) 
